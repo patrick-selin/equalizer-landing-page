@@ -6,12 +6,11 @@
 
 ![solution](https://)
 
-
 ### Links
 
- Live Site: [CLICK](https://)
+ Live Site: [CLICK](https://patrick-selin.github.io/equalizer-landing-page/)
 
- Code: [CLICK](https://github.com/patrick-selin/social-proof-section.git)
+ Code: [CLICK](https://github.com/patrick-selin/equalizer-landing-page.git)
 
 ### Built with
 
