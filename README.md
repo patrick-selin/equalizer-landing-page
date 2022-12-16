@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![solution](https://)
+![solution](https://github.com/patrick-selin/equalizer-landing-page/blob/main/assets/Equalizer%20landing%20page%20solution.png)
 
 ### Links
 
@@ -18,3 +18,4 @@
 - CSS
 - Media Query
 - Flexbox
+- Mobile first design
