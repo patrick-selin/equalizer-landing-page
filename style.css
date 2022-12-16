@@ -330,6 +330,7 @@ h2 {
     .hero-info p {
         font-size: 1.3rem;
         max-width: 900px;
+        padding-bottom: 3rem;
     }
 
     .main {
