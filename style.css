@@ -281,6 +281,12 @@ h2 {
 
   .footer p {
     padding-top: 0rem;
+    
+  }
+
+  .footer-logo {
+    width: 9.1rem;
+    height: 2rem;
   }
 
   .bold {
@@ -295,3 +301,94 @@ h2 {
   }
   
 }
+
+
+@media (min-width: 1024px) {
+
+    .blur {
+        position: absolute;
+        top: 80px;
+        right: 80px;
+        opacity: 0.9;
+    }
+
+    .bg-right {
+    top: -40px;
+    right: 0px;
+    }
+
+    .hero-info {
+        max-width: 1000px;
+    }
+
+    .hero-info h1 {
+        
+        max-width: 1000px;
+        font-size: 5.5rem;
+      }
+
+    .hero-info p {
+        font-size: 1.3rem;
+        max-width: 900px;
+    }
+
+    .main {
+        background-position: 43% -40px;
+    
+    }
+
+    .smartphone {
+        width: 290px;
+        margin: 0 135px;
+        transform: translateX(-0.2rem);
+        transform: translateY(-11.2rem);
+        
+        /* transform: translateX(50%); */
+      }
+
+    .download-card {
+        /* height: 625px; */
+        position: absolute;
+        margin-right: 70px;
+        bottom: -110px;
+        right: 5px;
+        padding-top:3rem;
+        padding-bottom: 3rem;
+        
+      }
+
+      .download-card h2 {
+        font-size: 2.5rem;
+      }
+
+      .download-card p {
+        padding-top: 2rem;
+        font-size: 1.2rem;
+      }
+
+      .gap {
+        padding-bottom: 1.6rem;
+      }
+
+      .footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem;
+        margin-left: 0rem;
+        padding-left: 0rem;
+        margin-right: 0rem;
+        padding-right: 0rem;
+      }
+
+      .footer-logo {
+        transform: translateY(-1.4rem);
+      }
+
+      .footer-p {
+        transform: translateX(-20.2rem);
+        
+      }
+
+
+    }
